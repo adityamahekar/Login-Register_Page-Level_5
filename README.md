@@ -13,13 +13,15 @@ Users can register with an email and password, log in securely, and access a pro
 The project uses a modular EJS structure with partials (header.ejs, footer.ejs) and serves static assets through the public folder.
 
 ---
-
 🔑 Levels of Authentication:<br>
 Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
 Level 2: Hashing (MD5, SHA, etc.)<br>
 Level 3: Hashing + Salt Rounds (bcrypt)<br>
 Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies)<br>
 Level 5: Environment Variables + Session-Based Authentication<br>
+
+
+
 ---
 📂 Project Structure:<br><br>
 Authentication Lv.5<br>
