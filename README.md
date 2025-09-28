@@ -55,15 +55,12 @@ Authentication Lv.5<br>
 
 | SignUp Page | Login Page |
 |-------------|------------|
-| ![lgl3](./imgg/lgl3.png)| ![al3](./imgg/al3.png) |
+| ![lgl1](./imgg/lgl1.png) | ![a3](./imgg/a3.png) |
 
 | Register Page | Secret Page |
 |---------------|-------------|
-| ![al1](./imgg/al1.png) | ![al4](./imgg/al4.png)|
+| ![al1](./imgg/al1.png) | ![alia](./imgg/alia.png) |
 
-| Database |
-|----------|
-| ![al2](./imgg/al2.png) |
 
 
 ---
