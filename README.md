@@ -1,4 +1,4 @@
-## 🔐 Login & Register Page – Level 5 Authentication
+## 🔐 Login & Register Page – Level 5 Authentication(Environment Variables + Session-Based Authentication)
 
 This project is a Login & Register Authentication System built with Node.js, Express, EJS, and PostgreSQL.
 It demonstrates Level 5 Authentication, where:
@@ -13,7 +13,7 @@ Users can register with an email and password, log in securely, and access a pro
 The project uses a modular EJS structure with partials (header.ejs, footer.ejs) and serves static assets through the public folder.
 
 ---
-🔑 Levels of Authentication:<br>
+🔑 Levels of Authentication:<br><br>
 Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
 Level 2: Hashing (MD5, SHA, etc.)<br>
 Level 3: Hashing + Salt Rounds (bcrypt)<br>
