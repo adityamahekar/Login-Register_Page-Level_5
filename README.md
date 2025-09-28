@@ -1,4 +1,4 @@
-## 🔐 Login & Register Page – Level 5 Authentication(Environment Variables + Session-Based Authentication)
+## 🔐 Login & Register Page – Level 5 Authentication(Environment Variables + Session-Based Authentication) #
 
 This project is a Login & Register Authentication System built with Node.js, Express, EJS, and PostgreSQL.
 It demonstrates Level 5 Authentication, where:
