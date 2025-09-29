@@ -69,9 +69,9 @@ Authentication Lv.5<br>
 ## ⚙️ Setup Instructions
 
  1️⃣ Create Table in PostgreSQL(users):
- <br><br>
-    as given in the query.sql
  <br>
+    as given in the query.sql
+ <br><br>
  
 2️⃣ Install Dependencies:
 ```bash
