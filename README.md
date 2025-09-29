@@ -19,6 +19,7 @@ Level 2: Hashing (MD5, SHA, etc.)<br>
 Level 3: Hashing + Salt Rounds (bcrypt)<br>
 Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies)<br>
 Level 5: Environment Variables + Session-Based Authentication<br>
+Level 6: OAuth (Open Authorization) 
 
 
 
@@ -78,18 +79,10 @@ npm i
 npm i pg express ejs body-parser
 ```
 
-3️⃣ Database Connection (index.js)
-```bash
-const app = express()
-const db = new pg.Client({
-  user: "postgres",
-  host: "localhost",
-  database: "XXXXX",    // <-- your database name
-  password: "XXXXX",    // <-- your password
-  port: XXXX,           // <-- your port name, by default for pg 5432
-});
-```
-4️⃣ Run Server:
+4️⃣ Edit .env file:
+    as give in the .ENV.txt
+
+5️⃣ Run Server: 
 ```bash
 node index.js
 ```
