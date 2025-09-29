@@ -79,9 +79,9 @@ npm i
 npm i pg express ejs body-parser
 ```
 
-4️⃣ Edit .env file:<br><br>
+4️⃣ Edit .env file:<br>
     as give in the .ENV.txt
-<br>
+<br><br>
 5️⃣ Run Server: 
 ```bash
 node index.js
