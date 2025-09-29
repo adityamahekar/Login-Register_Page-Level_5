@@ -70,7 +70,7 @@ Authentication Lv.5<br>
 
  1️⃣ Create Table in PostgreSQL(users):
  <br><br>
-as given in the query.sql
+    as given in the query.sql
  <br>
  
 2️⃣ Install Dependencies:
@@ -79,9 +79,9 @@ npm i
 npm i pg express ejs body-parser
 ```
 
-4️⃣ Edit .env file:
+4️⃣ Edit .env file:<br><br>
     as give in the .ENV.txt
-
+<br>
 5️⃣ Run Server: 
 ```bash
 node index.js
