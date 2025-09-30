@@ -30,24 +30,24 @@ Authentication Lv.5<br>
 ├── .gitignore<br>
 ├── ENV.txt<br>
 ├── css<br>
-    └── styles.css<br>
+|    └── styles.css<br>
 ├── index.js<br>
 ├── package-lock.json<br>
 ├── package.json<br>
 ├── partials<br>
-    ├── footer.ejs<br>
-    └── header.ejs<br>
+|    ├── footer.ejs<br>
+|    └── header.ejs<br>
 ├── public<br>
-    └── css<br>
-    │   └── styles.css<br>
+|   └── css<br>
+|    │   └── styles.css<br>
 └── views<br>
-    ├── home.ejs<br>
-    ├── login.ejs<br>
-    ├── partials<br>
-        ├── footer.ejs<br>
-        └── header.ejs<br>
-    ├── register.ejs<br>
-    └── secrets.ejs<br>
+|    ├── home.ejs<br>
+|    ├── login.ejs<br>
+|   ├── partials<br>
+|        ├── footer.ejs<br>
+|       └── header.ejs<br>
+|    ├── register.ejs<br>
+|   └── secrets.ejs<br>
 
 
 ---
